@@ -5,7 +5,7 @@
 注意：此EFI不含三码 实际使用时请自行使用[OCAT](https://github.com/ic005k/OCAuxiliaryTools)生成
 ![](Image.png)
 
-##### 配置清单
+### 配置清单
 |类型|型号|规格|
 |---|---|---|
 |CPU|Intel i5-3317U|1.7 GHz|
@@ -18,7 +18,7 @@
 |Wi-Fi|Intel N 7260 MiniPCIe版|300 Mbps|
 |操作系统|macOS Big Sur|11.7|
 
-##### 未解决的问题
+### 未解决的问题
 - 独立显卡无法驱动
 - 内置SDHC读卡器无法驱动
 - 键盘快捷键不起作用
