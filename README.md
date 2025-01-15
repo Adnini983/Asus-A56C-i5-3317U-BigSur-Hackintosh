@@ -14,8 +14,17 @@
 |显卡 1|Intel HD 4000|64-512 MB|
 |显卡 2|NVIDIA GT 635M|2 GB|
 |网卡|RealTek 8168|1000 Mbps|
-|声卡|RealTek ALC270|双声道|
-|Wi-Fi|Intel N 7260|300 Mbps|
+|声卡|RealTek ALC270|立体声|
+|Wi-Fi|Intel N 7260 MiniPCIe版|300 Mbps|
 |操作系统|macOS Big Sur|11.7|
 
-##### 完成度
+##### 未解决的问题
+- 独立显卡无法驱动
+- 内置SDHC读卡器无法驱动
+- 键盘快捷键不起作用
+- 盒盖睡眠会睡死 需要手动在终端内强制关闭睡眠
+```
+sudo pmset -a sleep 0
+sudo pmset -a hibernatemode 0
+sudo pmset -a disablesleep 1
+```
