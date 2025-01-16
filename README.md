@@ -1,6 +1,6 @@
 # Asus-A56C-i5-3317U-BigSur-Hackintosh
 
-应用于Asus A56C的OpenCore 1.0.3的黑苹果引导 支持macOS Big Sur 11.7
+应用于Asus K56CM的OpenCore 1.0.3的黑苹果引导 支持macOS Big Sur 11.7
 
 注意：此EFI不含三码 实际使用时请自行使用[OCAT](https://github.com/ic005k/OCAuxiliaryTools)生成
 ![](Image.png)
