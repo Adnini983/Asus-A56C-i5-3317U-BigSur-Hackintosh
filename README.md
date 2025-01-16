@@ -1,4 +1,4 @@
-# Asus-A56C-i5-3317U-BigSur-Hackintosh
+# Asus-K56CM-i5-3317U-BigSur-Hackintosh
 
 应用于Asus K56CM的OpenCore 1.0.3的黑苹果引导 支持macOS Big Sur 11.7
 
