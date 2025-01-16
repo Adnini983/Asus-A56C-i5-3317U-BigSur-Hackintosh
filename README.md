@@ -17,6 +17,7 @@
 |声卡|RealTek ALC270|立体声|
 |Wi-Fi|Intel N 7260 MiniPCIe版|300 Mbps|
 |操作系统|macOS Big Sur|11.7|
+|BIOS|AMI UEFI|207|
 
 ### 未解决的问题
 - 独立显卡无法驱动

@@ -1356,7 +1356,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>-v keepsyms=1 debug=0x100 -no_compat_check amfi_get_out_of_my_way=0x1 -wegnoegpu -cdfon gfxrst=1 ngfxcompat=1 ngfxgl=1 nvda_drv_vrl=1 vsmcgen=1 revpatch=auto,sbvmm,cpuname swd_panic=1 alcid=4</string>
+                    <string>-v keepsyms=1 debug=0x100 -no_compat_check amfi_get_out_of_my_way=0x1 -wegnoegpu -cdfon gfxrst=1 ngfxcompat=1 ngfxgl=1 nvda_drv_vrl=1 vsmcgen=1 igfxonln=1 revpatch=auto,sbvmm,cpuname swd_panic=1 alcid=4</string>
                     <key>csr-active-config</key>
                     <data>AAAAAA==</data>
                     <key>prev-lang:kbd</key>
